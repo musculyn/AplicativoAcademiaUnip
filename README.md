@@ -17,7 +17,16 @@ Aplicativo open source desenvolvido em Flutter e integrado ao Firebase com o int
 - GitHub
 
 
-## Como executar o projeto
+## 🧩 Como executar o projeto
+
+
+## 🧑‍💻 Autores
+Desenvolvido por:
+- Andre Leonardo Marinzek de Oliveira
+- Arthur Martin Castilho
+- Bruno Mendonca Sigismundo
+- Lucas Rios de Souza Jordao
+- Marcio Gabriel Maio
 
 ## ⚖️ Licença
 Este projeto está sob a licença GNU General Public License v3.0 — veja o arquivo LICENSE para mais informações.
