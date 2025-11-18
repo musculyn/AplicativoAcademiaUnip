@@ -18,7 +18,8 @@ Aplicativo open source desenvolvido em Flutter e integrado ao Firebase com o int
 
 
 ## 🧩 Como executar o projeto
-
+### Android
+Para instalar o app para android va ate a aba **Release** e instale o arquivo app-release.apk
 
 ## 🧑‍💻 Autores
 Desenvolvido por:
