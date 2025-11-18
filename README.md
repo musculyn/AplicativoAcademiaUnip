@@ -19,7 +19,20 @@ Aplicativo open source desenvolvido em Flutter e integrado ao Firebase com o int
 
 ## 🧩 Como executar o projeto
 ### Android
-Para instalar o app para android va ate a aba **Release** e instale o arquivo app-release.apk
+Para instalar o aplicativo em dispositivos Android, acesse a seção Releases e faça o download do arquivo app-release.apk
+
+### Iphone
+Agora para instalar em dispositivos Apple é necessario seguir o seguinte passo a passo
+- Passo 1
+  Abrir o **Safari**
+- Passo 2
+  Entrar na URL https://projetoacademiatcc-73645.web.app/
+- Passo 3
+  Tocar no botão **Compartilhar**(quadradinho com sete pra cima)
+- Passo 4
+  Rolar e escolher **Adicionar à Tela de Início**(Add to Home Screen)
+- Passo 5
+  Confirmar o nome(Musculyn) e apertar em **Adicionar**
 
 ## 🧑‍💻 Autores
 Desenvolvido por:
