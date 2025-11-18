@@ -17,10 +17,7 @@ import 'package:flutter/foundation.dart'
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
-      throw UnsupportedError(
-        'DefaultFirebaseOptions have not been configured for web - '
-        'you can reconfigure this by running the FlutterFire CLI again.',
-      );
+      return web;
     }
     switch (defaultTargetPlatform) {
       case TargetPlatform.android:
@@ -64,6 +61,16 @@ class DefaultFirebaseOptions {
     projectId: 'projetoacademiatcc-73645',
     storageBucket: 'projetoacademiatcc-73645.firebasestorage.app',
     iosBundleId: 'com.example.gymApp',
+  );
+
+  static const FirebaseOptions web = FirebaseOptions(
+    apiKey: 'AIzaSyD5Mmn07lvjj5PweG9rsc-SrrpVxZUPgCY',
+    appId: '1:869117266277:web:938b1a14249e947190398c',
+    messagingSenderId: '869117266277',
+    projectId: 'projetoacademiatcc-73645',
+    authDomain: 'projetoacademiatcc-73645.firebaseapp.com',
+    storageBucket: 'projetoacademiatcc-73645.firebasestorage.app',
+    measurementId: 'G-P52R08M6VW',
   );
 
 }
