@@ -21,8 +21,8 @@ Aplicativo open source desenvolvido em Flutter e integrado ao Firebase com o int
 ### Android
 Para instalar o aplicativo em dispositivos Android, acesse a seção Releases e faça o download do arquivo app-release.apk
 
-### Iphone
-Agora para instalar em dispositivos Apple é necessario seguir o seguinte passo a passo
+### IOS
+Agora para instalar em dispositivos IOS é necessario seguir o seguinte passo a passo
 - Passo 1
   Abrir o **Safari**
 - Passo 2
