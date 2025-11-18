@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 Aplicativo open source desenvolvido em Flutter e integrado ao Firebase com o intuito de ajudar usuários a gerenciar seus treinos, acompanhar progresso e manter a motivação na academia.
 
 ## ✨ Funcionalidades
-- Autenticacao Firebase
+- Autenticação Firebase
 - Rotina de treinos personalizados
 - Acompanhamento de progresso
 - Modelos anatomicos
@@ -40,10 +40,10 @@ Aplicativo open source desenvolvido em Flutter e integrado ao Firebase com o int
 
 ## 🧑‍💻 Autores
 Desenvolvido por:
-- Andre Leonardo Marinzek de Oliveira
+- André Leonardo Marinzek de Oliveira
 - Arthur Martin Castilho
-- Bruno Mendonca Sigismundo
-- Lucas Rios de Souza Jordao
+- Bruno Mendonça Sigismundo
+- Lucas Rios de Souza Jordão
 - Marcio Gabriel Maio
 
 ## ⚖️ Licença
